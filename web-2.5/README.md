@@ -2,7 +2,7 @@
 
 This documentation provides a basic overview of the template. Each module has its own `README` file with more detailed information.
 
-Full functionality of this template (namely `npm run post` mentioned below) is dependant on the `batcher` that was copied to your system during the template creation process. Please, look at the instructions in that folder first to get it running.
+Full functionality of this template (namely `npm run post` mentioned below) is dependent on the `batcher` that was copied to your system during the template creation process. Please, look at the instructions in that folder first to get it running.
 
 ## Installation
 
